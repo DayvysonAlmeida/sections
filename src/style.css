@@ -21,3 +21,10 @@
 .page04{
     background-color: black;
 }
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
